@@ -4,6 +4,7 @@ import json
 import time 
 import calendar 
   
+access_token=""
 dob='2013-04-24'
 conn = httplib.HTTPSConnection("Page on Facebook") 
 print 'requesting...'
